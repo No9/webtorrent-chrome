@@ -5,7 +5,7 @@
 
 What it looks like:
 
-![screenshot](https://raw.github.com/feross/webtorrent/master/img/screenshot.png)
+![screenshot](https://raw.github.com/feross/webtorrent-chrome/master/img/screenshot.png)
 
 I decided to pull out the Chrome App version of webtorrent into it's own repo. For the
 time being, development effort will be focused on the node-webkit version of the app.
