@@ -1,9 +1,6 @@
 # ![WebTorrent](https://raw.github.com/feross/webtorrent/master/img/wordmark.png)
-[![Gittip](http://img.shields.io/gittip/feross.svg)](https://www.gittip.com/feross/)
 
-#### WebTorrent - Streaming BitTorrent client as a Chrome App
-
-What it looks like:
+### WebTorrent - Streaming BitTorrent client as a Chrome App
 
 ![screenshot](https://raw.github.com/feross/webtorrent-chrome/master/img/screenshot.png)
 
