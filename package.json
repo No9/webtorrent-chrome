@@ -1,5 +1,5 @@
 {
-  "name": "webtorrent",
+  "name": "webtorrent-chrome",
   "description": "Streaming BitTorrent client for the browser",
   "version": "0.2.4",
   "author": {
